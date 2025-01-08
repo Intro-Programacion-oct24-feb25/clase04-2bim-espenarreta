@@ -39,9 +39,11 @@ public class Ejemplo081 {
                                                        // devuelve se lo 
                                                        // almacena  en mensajeSuma
                System.out.printf("%s\n", mensajeSuma);
+               break;
             case 2:
                 mensajeSumaDos = obtenerTablaMultiplicar(valor2, valor1);
                 System.out.printf("%s\n", mensajeSumaDos);
+                break;
         }
     }
         
