@@ -17,10 +17,13 @@ public class Ejemplo03 {
         Scanner entrada = new Scanner(System.in);
         int valor1;
         int valor2;
+        
         System.out.println("Ingrese el valor 1 a sumar");
         valor1 = entrada.nextInt();
+        
         System.out.println("Ingrese el valor 2 a sumar");
         valor2 = entrada.nextInt();
+        
         // 
         int valor = obtenerSuma(valor1, valor2); // se invoca al método 
                                          // obtenerSuma
