@@ -27,7 +27,8 @@ public class Ejemplo081 {
         valor1 = entrada.nextInt();
         System.out.println("Ingrese el limite de la tabla");
         valor2 = entrada.nextInt();
-        System.out.println("Ingrese el número de la tabla a generar");
+        System.out.println("Ingrese el número de la tabla a generar, "
+                + "(1 para sumar) (2 para multiplicar)");
         opcion= entrada.nextInt();
         
         switch (opcion) {
