@@ -10,7 +10,15 @@ package ejemplos02;
  * @author reroes
  */
 public class Ejemplo041 {
-
+    /*
+        En este problema existen 3 arreglos en el main, se utiliza un ciclo
+            repetitivo (for) para multiplicar las posiciones de los arreglos
+            1 y 2 utilizando un metodo que es un procedimiento en el cual tiene
+            un ciclo repetitivo para imprimir los valores del arreglo;
+            para realizar la multiplicación de las posiciones se utiliza otro
+            metodo el cual es una función porque retorna un valor de tipo entero
+            los cuales se van a asignar al arreglo 3 y así poder imprimirlos
+    */
     public static void main(String[] args) {
         // 
         
