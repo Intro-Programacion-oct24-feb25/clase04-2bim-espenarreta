@@ -10,7 +10,7 @@ package ejemplos01;
  * @author reroes
  */
 public class Ejemplo11 {
-
+    
     public static void main(String[] args) {
         // 
         String mensajeSuma;
